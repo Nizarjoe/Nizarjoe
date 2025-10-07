@@ -1,5 +1,5 @@
 # Hello World i'm Joe or you can call me Nizarjoe 👋
-
+![Nizarjoe](img/github-header-banner.png)
 <!--
 **Nizarjoe/Nizarjoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
 🎓 **Data Science student** at Universitas Putra Bangsa with a deep interest in data, coding, and technology-based problem solving.
 💡 I love exploring how data, code, and creativity can be combined to build practical digital solutions for daily and community use.
 
