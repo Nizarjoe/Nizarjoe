@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 -->
 
 
+💼 Data Science Student at Universitas Putra Bangsa with a strong foundation in data analysis, programming, and digital innovation.
 
+🔍 Passionate about turning data into meaningful insights through Python, R, SQL, and Tableau, with hands-on experience in data cleaning, visualization, and predictive modeling.
 
-🎓 **Data Science student** at Universitas Putra Bangsa with a deep interest in data, coding, and technology-based problem solving.
-💡 I love exploring how data, code, and creativity can be combined to build practical digital solutions for daily and community use.
+💡 I’m deeply interested in how data, technology, and creativity intersect to build efficient and impactful digital solutions for both daily life and community development.
+
+🚀 Continuously learning and exploring fields like machine learning, applied statistics, and AI-driven decision systems.
+
+🤝 A collaborative, adaptive, and growth-minded individual — eager to contribute to real-world projects that combine technology with social value.
 
 ---
 
